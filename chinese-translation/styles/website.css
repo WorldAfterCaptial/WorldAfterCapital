@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display|Oswald:400,300|Roboto);
+
+.book .book-summary {
+    background-color: #00ACE6;
+    width: 300px;
+}
+
+.book .book-summary ul.summary li a,
+.book .book-summary ul.summary li span {
+    padding: 10px 40px;
+}
+
+.book .book-summary ul.summary > li:first-child a {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 18px;
+    color: #FFFFFF !important;
+    position: relative;
+    margin-top: 15px;
+    display: block;
+}
+
+.book .book-summary ul.summary > li:first-child a:before {
+    content: ' ';
+    display: inline-block;
+    margin-right: 10px;
+    width: 20px;
+    height: 25px;
+    background-color: #FFDD33;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    margin-bottom: -6px;
+}
+
+.book .book-summary ul.summary > li:first-child a:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 45px;
+    width: 1px;
+    height: 25px;
+    top: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.book .book-summary ul.summary li.divider {
+    background-color: #FFFFFF;
+    margin: 20px 40px;
+}
+
+.book .book-summary ul.summary li a {
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li.active>a  {
+    color: #FFDD33;
+}
+
+.book .book-summary .book-search input {
+   color: #FFFFFF;
+   transition: 0.3s ease color;
+   -webkit-transition: 0.3s ease color;
+}
+.book .book-summary .book-search input:focus {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input:hover {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input::-webkit-input-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input:-moz-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input::-moz-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-summary .book-search input:-ms-input-placeholder {
+   color: #FFFFFF;
+}
+
+.book .book-body .page-wrapper .page-inner {
+    max-width: 620px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal {
+    color: #777777;
+    line-height: 2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+    font-size: 1.25em;
+}
+
+.book .book-body h1,
+.book .book-body h2,
+.book .book-body h3,
+.book .book-body h4,
+.book .book-body h5,
+.book .book-body h6 {
+    font-family: 'Playfair Display', sans-serif;
+    color: #111111;
+}

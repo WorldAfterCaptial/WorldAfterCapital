@@ -1,0 +1,10 @@
+{
+    "title": "World After Capital",
+    "description": "-",
+    "styles": {
+      "website": "styles/website.css"
+    },
+    "structure": {
+      "readme": "WIP.md"
+    }
+}
