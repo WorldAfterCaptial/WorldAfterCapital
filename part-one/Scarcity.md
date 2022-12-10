@@ -1,6 +1,6 @@
 # Scarcity
 
-Those with some familiarity with economic theory are likely to understand ‘scarcity’ in its terms. In that context, something is scarce if its price is greater than zero. By this definition, land is scarce—it costs a lot of money to buy a piece of land. And financial capital is still because even with our current low interest rates, there is a price for borrowing money or raising equity.
+Those with some familiarity with economic theory are likely to understand ‘scarcity’ in its terms. In that context, something is scarce if its price is greater than zero. By this definition, land is scarce—it costs a lot of money to buy a piece of land. And financial capital is scarce because even with our current low interest rates, there is a price for borrowing money or raising equity.
  
 However, there is a fundamental problem with this price-based definition of scarcity: anything can be made scarce by assigning ownership of it. Imagine for a moment that the world’s atmosphere belonged to Global Air Ltd, a company which could charge a fee to anyone who breathes air. Air would suddenly have become scarce, according to the price-based theory of scarcity. That might seem like an extreme example, and yet some people have argued that assigning ownership to the atmosphere would solve the problem of air pollution, on the grounds that it would result in the air’s owners having an economic incentive to maintain an unpolluted atmosphere. 
 
